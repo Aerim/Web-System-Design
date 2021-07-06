@@ -1,0 +1,44 @@
+
+table{
+	width:100%;
+	background-color:gray;
+	border-collapse: collapse;
+
+}
+
+th, td{
+	border: 1px solid white;
+	padding: 5px;
+}
+
+body{
+	margin:0;
+}
+
+form.test_input{
+	color:blue;
+	text-align: center;
+	padding:15px;
+}
+
+.test_text{
+	color:white;
+	background-color:skyblue;
+	text-align:center;
+	padding:20px;
+}
+
+.hyperlink{
+	text-align: center;
+	padding:10px;
+}
+
+.test_footer{
+	text-align: center;
+	padding:10px;
+}
+
+.test_main
+{
+	text-align: center;
+}
